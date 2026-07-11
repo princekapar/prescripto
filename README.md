@@ -2,6 +2,23 @@
 
 A full-stack Doctor Appointment Booking System built using the MERN Stack. The platform allows patients to book appointments with doctors, doctors to manage their schedules, and administrators to oversee the entire system through a dedicated dashboard.
 
+🌐 **Live Demo:** [Prescripto Live](https://prescripto-frontend-a9bm.onrender.com/)
+---
+
+## 📸 Preview
+
+| Home Page | Find Doctors |
+|-----------|--------------|
+| ![Home](https://github.com/user-attachments/assets/35e46a87-e8de-43b2-b841-b18a84155d1c) | ![Doctors](https://github.com/user-attachments/assets/3d1fb35e-e231-49c3-9a44-9d96810e0921) |
+
+| Book Appointment | My Appointments |
+|------------------|-----------------|
+| ![Appointment](https://github.com/user-attachments/assets/43f44781-421f-4173-89e3-6372030e3d9d) | ![My Appointments](https://github.com/user-attachments/assets/43f44781-421f-4173-89e3-6372030e3d9d) |
+
+| Doctor Dashboard | Admin Dashboard |
+|------------------|-----------------|
+| ![Doctor](https://github.com/user-attachments/assets/dd833b4c-6bd0-4a51-b87f-1cb48fa033ca) | ![Admin](https://github.com/user-attachments/assets/fd7eafcb-c8d4-42ac-a422-e5bbec9343ca) |
+
 ---
 
 ## 🚀 Features
@@ -85,7 +102,7 @@ Prescripto/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/prescripto.git
+git clone https://github.com/princekapar/prescripto.git
 ```
 
 ```bash
@@ -181,3 +198,6 @@ npm run dev
 ### Admin
 
 ```bash
+cd admin
+npm run dev
+```
